@@ -1,4 +1,4 @@
-# Copilot Instructions for Stock_Predictor_Streamlit
+# Instructions for Stock_Predictor_Streamlit
 
 ## Project overview
 - This repo is a **single-file Streamlit app** centered in `stock_app.py`.
