@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Generated project artifacts
+data/
+model/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
